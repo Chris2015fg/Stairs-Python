@@ -1,0 +1,11 @@
+number = input("Enter how many levels you want:\n")
+hash = "#"
+count = 0
+
+while int(number) > count:
+    print(hash)
+    hash += "#"
+    count += 1
+
+
+    #this program is good, works fine so dont fuck with it
